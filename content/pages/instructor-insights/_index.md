@@ -63,7 +63,19 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 70% Weekly analysis (10 projects, 7% each){{< br >}}- 13% Final project (essay and discussion){{< br >}}- 10% Reflection on weekly analysis (2 papers, 5% each){{< br >}}- 7% Participation{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 70% Weekly analysis (10 projects, 7% each)
+- 13% Final project (essay and discussion)
+- 10% Reflection on weekly analysis (2 papers, 5% each)
+- 7% Participation
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Rubrics
 

@@ -58,30 +58,302 @@ The use of laptops and other electronic devices should be limited to accessing o
 Grading
 -------
 
-| Activities | Percentages |
-| --- | --- |
-| Weekly analysis (10 projects) | 70% (7% each) |
-| Reflection on weekly analysis (2 papers) | 10% (5% each) |
-| Final project (essay + discussion) | 13% |
-| Participation | 7% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly analysis (10 projects)
+{{< tdclose >}}
+{{< tdopen >}}
+70% (7% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reflection on weekly analysis (2 papers)
+{{< tdclose >}}
+{{< tdopen >}}
+10% (5% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project (essay + discussion)
+{{< tdclose >}}
+{{< tdopen >}}
+13%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+7%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Overview and Key Dates
 -----------------------------
 
-| Week | Topics | Key Dates |
-| --- | --- | --- |
-| I | Intro and Meet the Beatles | Week 1 analysis due |
-| II | 1963: _With the Beatles_ | Week 2 analysis due |
-| III | 1964: _A Hard Day's Night_ | Week 3 analysis due |
-| IV | 1964: _Beatles for Sale_ | Week 4 analysis due |
-| V | Beatles in the News and on the Screen | Week 5 analysis due |
-| VI | 1965: _Help!_ | Week 6 analysis due |
-| VII | 1965: _Rubber Soul_ | Week 7 analysis due |
-| VIII | 1966: _Revolver_ | Week 8 analysis due |
-| IX |  {{< br >}}{{< br >}} _Magical Mystery Tour_ {{< br >}}{{< br >}} 1967: _Sergeant Pepper’s Lonely Hearts Club Band_ {{< br >}}{{< br >}}  | Week 9 analysis due |
-| X |  {{< br >}}{{< br >}} 1967: _Sergeant Pepper’s Lonely Hearts Club Band_ {{< br >}}{{< br >}} 1968: _The Beatles_ {{< br >}}{{< br >}}  | Week 10 analysis due |
-| XI |  {{< br >}}{{< br >}} 1968: _The Beatles_ {{< br >}}{{< br >}} 1969: _Yellow Submarine_ {{< br >}}{{< br >}}  | Week 11 analysis due |
-| XII |  {{< br >}}{{< br >}} 1969: _Yellow Submarine_ {{< br >}}{{< br >}} 1969: _Abbey Road_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Week 12 analysis due {{< br >}}{{< br >}}  |
-| XIII |  {{< br >}}{{< br >}} 1969: _Abbey Road_ {{< br >}}{{< br >}} 1970: _Let It Be_ {{< br >}}{{< br >}}  | Week 13 analysis due |
-| XIV |  {{< br >}}{{< br >}} 1970: _Let It Be_ {{< br >}}{{< br >}} Paper Discussion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Week 14 analysis due {{< br >}}{{< br >}} Final project due {{< br >}}{{< br >}}  |
-| XV | Wrap-up | Week 15 analysis due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+I
+{{< tdclose >}}
+{{< tdopen >}}
+Intro and Meet the Beatles
+{{< tdclose >}}
+{{< tdopen >}}
+Week 1 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+II
+{{< tdclose >}}
+{{< tdopen >}}
+1963: _With the Beatles_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 2 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+III
+{{< tdclose >}}
+{{< tdopen >}}
+1964: _A Hard Day's Night_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 3 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IV
+{{< tdclose >}}
+{{< tdopen >}}
+1964: _Beatles for Sale_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 4 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+V
+{{< tdclose >}}
+{{< tdopen >}}
+Beatles in the News and on the Screen
+{{< tdclose >}}
+{{< tdopen >}}
+Week 5 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VI
+{{< tdclose >}}
+{{< tdopen >}}
+1965: _Help!_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 6 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VII
+{{< tdclose >}}
+{{< tdopen >}}
+1965: _Rubber Soul_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 7 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+VIII
+{{< tdclose >}}
+{{< tdopen >}}
+1966: _Revolver_
+{{< tdclose >}}
+{{< tdopen >}}
+Week 8 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IX
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magical Mystery Tour_
+
+1967: _Sergeant Pepper’s Lonely Hearts Club Band_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Week 9 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1967: _Sergeant Pepper’s Lonely Hearts Club Band_
+
+1968: _The Beatles_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Week 10 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XI
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1968: _The Beatles_
+
+1969: _Yellow Submarine_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Week 11 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XII
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1969: _Yellow Submarine_
+
+1969: _Abbey Road_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Week 12 analysis due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIII
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1969: _Abbey Road_
+
+1970: _Let It Be_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Week 13 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XIV
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1970: _Let It Be_
+
+Paper Discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Week 14 analysis due
+
+Final project due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+XV
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+Week 15 analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
