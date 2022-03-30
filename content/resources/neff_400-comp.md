@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 resourcetype: Image
 title: Neff_400-comp.jpg
 uid: b7483920-43a3-9484-e14d-ea400334ea81

@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-299-the-beatles-fall-2017/44ed315c6ed26df1b4d8fb93a9bed9f3_MIT21M_299F17_Notes10.pdf
 file_type: application/pdf
+parent_uid: d6f2204b-39fc-a2c4-b3fb-370199b40739
 resourcetype: Document
 title: 'Week VII - Notes 10: Rubber Soul - 21M.299 Fall 2017'
 uid: 44ed315c-6ed2-6df1-b4d8-fb93a9bed9f3

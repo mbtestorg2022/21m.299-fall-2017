@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 resourcetype: Image
 title: Neff_500-comp.jpg
 uid: bb58530e-14ad-56b8-70b1-71ace97fe5c9

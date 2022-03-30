@@ -28,7 +28,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013/) or permission of the instructor
+[_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013) or permission of the instructor
 
 ### Requirements Satisfied
 

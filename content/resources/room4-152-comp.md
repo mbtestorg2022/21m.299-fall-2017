@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 5060b95f-152f-d848-f2c0-12f9928a4e84
 resourcetype: Image
 title: room4-152-comp.jpg
 uid: 63e3d05c-b755-2ec3-2744-8836f8a759be
